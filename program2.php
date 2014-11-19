@@ -1,6 +1,6 @@
 <?php
 
-echo 'mur-mur';
+include 'program1.php';
 
 /* any comments lines */
 
